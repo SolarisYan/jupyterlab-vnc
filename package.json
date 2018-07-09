@@ -1,18 +1,19 @@
 {
-  "name": "@jupyterlab/hub-extension",
-  "version": "0.9.1",
-  "description": "JupyterLab integration for JupyterHub.",
-  "author": "Project Jupyter",
+  "name": "@jupyterlab/vnc-extension",
+  "version": "1.0.1",
+  "description": "JupyterLab integration for VNC.",
+  "author": "availink",
   "main": "lib/index.js",
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jupyterhub/jupyterlab-hub.git"
+    "url": "https://github.com/jupyterhub/jupyterlab-vnc.git"
   },
   "keywords": [
     "jupyter",
     "jupyterlab",
-    "jupyterlab-extension"
+    "jupyterlab-extension",
+    "vnc"
   ],
   "scripts": {
     "build": "tsc",
